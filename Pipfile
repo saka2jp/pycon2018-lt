@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+rise = "*"
+python-twitter = "*"
+ipython-secrets = "*"
+"mecab-python3" = "*"
+gensim = "*"
+scikit-learn = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
