@@ -10,6 +10,8 @@ ipython-secrets = "*"
 "mecab-python3" = "*"
 gensim = "*"
 scikit-learn = "*"
+pandas = "*"
+matplotlib = "*"
 
 [dev-packages]
 
