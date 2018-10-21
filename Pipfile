@@ -12,6 +12,7 @@ gensim = "*"
 scikit-learn = "*"
 pandas = "*"
 matplotlib = "*"
+pandoc = "*"
 
 [dev-packages]
 
