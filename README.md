@@ -1,6 +1,6 @@
 # pycon2018-lt
 Blog: https://jumpyoshim.hatenablog.com/entry/report-of-pyconjp-2018-lt  
-Speaker Deck: https://speakerdeck.com/jumpyoshim/personal-character-estimation-with-twitter-pyconjp-2018
+Speaker Deck: https://speakerdeck.com/jumpyoshim/personal-character-estimation-with-twitter-pyconjp-2018  
 GitHub Pages: https://jumpyoshim.github.io/pycon2018-lt-slide/#/
 
 # Run Locally
