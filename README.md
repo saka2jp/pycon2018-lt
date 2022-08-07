@@ -1,7 +1,7 @@
 # pycon2018-lt
 Blog: https://jumpyoshim.hatenablog.com/entry/report-of-pyconjp-2018-lt  
-Speaker Deck: https://speakerdeck.com/jumpyoshim/personal-character-estimation-with-twitter-pyconjp-2018  
-GitHub Pages: https://jumpyoshim.github.io/pycon2018-lt-slide/#/
+Speaker Deck: https://speakerdeck.com/saka2jp/personal-character-estimation-with-twitter-pyconjp-2018  
+GitHub Pages: https://saka2jp.github.io/pycon2018-lt-slide/#/
 
 # Run Locally
 Make sure you have Pipenv.
@@ -16,5 +16,5 @@ $ pipenv shell
 ```
 
 # Output with PDF (Google Chrome)
-1. Access to https://jumpyoshim.github.io/pycon2018-lt-slide/?print-pdf#/
+1. Access to https://saka2jp.github.io/pycon2018-lt-slide/?print-pdf#/
 2. Print as PDF
